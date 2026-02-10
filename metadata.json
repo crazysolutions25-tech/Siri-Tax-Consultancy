@@ -1,0 +1,8 @@
+{
+  "name": "Siri Tax Consultancy - AI Powered",
+  "description": "Highend AI-powered tax consultancy with real-time voice and vision analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
